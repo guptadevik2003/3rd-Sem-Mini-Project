@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@android:color/white"/>
+
+    <item
+        android:width="158dp"
+        android:height="158dp"
+        android:gravity="center">
+        <bitmap
+        android:gravity="fill"
+        android:src="@drawable/damn_logo_cropped" />
+    </item>
+
+</layer-list>
